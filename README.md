@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Next JS, Typescript**
 
-- 👨‍💻 All of my skills are available at [marees.netlify.app](marees.netlify.app)
+- 👨‍💻 All of my skills are available at [portfolio](marees.netlify.app)
 
 - 📫 How to reach me **mareesdroid@icloud.com**
 
-- 📄 Know about my experiences [https://resumelinkhere](https://resumelinkhere)
+- 📄 Know about my experiences [resume](https://marees-portfolio.s3.us-east-2.amazonaws.com/Marees+Resume.pdf)
 
 
 
