@@ -9,6 +9,8 @@ I am 6 years experienced MERN stack developer, Skilled in multiple platforms and
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TaliwindCSS-white?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![MUI](https://img.shields.io/badge/-MUI-000000?style=flat&logo=mui&logoColor=007FFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-ffffff?style=flat-square&logo=googlecloud)
