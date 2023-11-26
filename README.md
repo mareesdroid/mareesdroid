@@ -12,14 +12,10 @@ I am 6 years experienced MERN stack developer, Skilled in multiple platforms and
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-ffffff?style=flat-square&logo=googlecloud)
 ![Redis](https://img.shields.io/badge/-Redis-red?style=flat&logo=Redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ed8e00?style=flat-square&logo=firebase)
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mareesdroid&label=Profile%20views&color=0e75b6&style=flat" alt="mareesdroid" /> </p>
 
 
 - 🌱 I’m currently learning **Next JS, Typescript**
