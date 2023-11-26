@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mareeswaran</h1>
-<h3 align="center">A passionate MERN web developer from India</h3>
 ## Hi there 👋
 
 #### About
