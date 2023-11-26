@@ -12,7 +12,7 @@ I am 6 years experienced MERN stack developer, Skilled in multiple platforms and
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
-![GoogleCloud](https://img.shields.io/badge/-GoogleCloude-ed8e00?style=flat-square&logo=googlecloud)
+![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-ffffff?style=flat-square&logo=googlecloud)
 ![Redis](https://img.shields.io/badge/-Redis-red?style=flat&logo=Redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ed8e00?style=flat-square&logo=firebase)
 
